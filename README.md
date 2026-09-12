@@ -1,6 +1,6 @@
 # 🚚 Supply Chain Analytics Dashboard
 
-![Executive Overview](Dashboard Screenshots/1_Executive_Overview.png)
+![Executive Overview](Dashboard%20Screenshots/1_Executive_Overview.png))
 
 ## 📌 Project Overview
 
