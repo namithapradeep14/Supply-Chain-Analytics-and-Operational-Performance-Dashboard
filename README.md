@@ -75,7 +75,7 @@ The project transforms raw supply chain data into actionable business insights t
 - Strategic Recommendations
 - Business Improvement Opportunities
 
-![Business Insights](Dashboard%20Sceenshots/4_Business_Insights.png)
+![Business Insights](Dashboard%20Screenshots/4_Business_Insights.png)
 
 ---
 
@@ -158,7 +158,7 @@ Supply-Chain-Analytics-Dashboard
 
 ## 👤 Author
 
-**Pritam Patil**
+**Namitha Pradeep**
 
 Aspiring Data Analyst | SQL | Power BI | Python | Excel | Business Intelligence
 
