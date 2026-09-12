@@ -1,6 +1,6 @@
 # 🚚 Supply Chain Analytics Dashboard
 
-![Executive Overview](Dashboard%20Screenshots/1_Executive_Overview.png))
+![Executive Overview](Dashboard%20Screenshots/1_Executive_Overview.png)
 
 ## 📌 Project Overview
 
@@ -64,7 +64,7 @@ The project transforms raw supply chain data into actionable business insights t
 - Profit Margin Analysis
 - Logistics Performance Monitoring
 
-![Logistics & Profitability Analysis](Dashboard%20Sceenshots/3_Logistics_Profitability_Analysis.png)
+![Logistics & Profitability Analysis](Dashboard%20Screenshots/3_Logistics_Profitability_Analysis.png)
 
 ---
 
