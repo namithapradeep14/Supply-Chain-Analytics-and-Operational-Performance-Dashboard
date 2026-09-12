@@ -40,7 +40,7 @@ The project transforms raw supply chain data into actionable business insights t
 - Shipping Cost Analysis
 - Defect Rate Monitoring
 
-![Executive Overview](Dashboard Screenshots/1_Executive_Overview.png)
+![Executive Overview](Dashboard%20Screenshots/1_Executive_Overview.png)
 
 ---
 
@@ -52,7 +52,7 @@ The project transforms raw supply chain data into actionable business insights t
 - Quality Inspection Analysis
 - Defect Rate Assessment
 
-![Inventory & Supplier Analysis](Dashboard%20Sceenshots/2_Inventory_Supplier_Analysis.png)
+![Inventory & Supplier Analysis](Dashboard%20Screenshots/2_Inventory_Supplier_Analysis.png)
 
 ---
 
