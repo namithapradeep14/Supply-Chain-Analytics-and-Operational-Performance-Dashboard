@@ -1,6 +1,6 @@
 # 🚚 Supply Chain Analytics Dashboard
 
-![Executive Overview](Dashboard%20Sceenshots/1_Executive_Overview.png)
+![Executive Overview](Dashboard Screenshots/1_Executive_Overview.png)
 
 ## 📌 Project Overview
 
@@ -40,7 +40,7 @@ The project transforms raw supply chain data into actionable business insights t
 - Shipping Cost Analysis
 - Defect Rate Monitoring
 
-![Executive Overview](Dashboard%20Sceenshots/1_Executive_Overview.png)
+![Executive Overview](Dashboard Screenshots/1_Executive_Overview.png)
 
 ---
 
